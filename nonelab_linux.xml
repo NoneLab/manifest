@@ -4,5 +4,5 @@
   <default remote="github" revision="refs/heads/master" sync-j="8"/>
 
   <project name="linux" path="kernel" remote="github" upstream="refs/heads/master"/>
-  <project name="busybox" path="utils/busybox" remote="github" revision="371fe9f71d445d18be28c82a2a6d82115c8af19d" upstream="refs/heads/master"/>
+  <project name="busybox" path="utils/busybox" remote="github" upstream="refs/heads/master"/>
 </manifest>
