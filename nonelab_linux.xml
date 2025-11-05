@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote fetch="https://github.com/NoneLab/" name="github" review="github.com"/>
+  <default remote="github" revision="refs/heads/master" sync-j="8"/>
+
+  <project name="kernel" path="linux" remote="github" revision="284922f4c563aa3a8558a00f2a05722133237fe8" upstream="refs/heads/master"/>
+  <project name="utils/busybox" path="busybox" remote="github" revision="371fe9f71d445d18be28c82a2a6d82115c8af19d" upstream="refs/heads/master"/>
+</manifest>
