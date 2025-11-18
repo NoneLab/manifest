@@ -5,4 +5,5 @@
 
   <project name="linux" path="kernel" remote="github" upstream="refs/heads/master"/>
   <project name="busybox" path="utils/busybox" remote="github" upstream="refs/heads/master"/>
+  <project name="debrootfs" path="utils/debrootfs" remote="github" upstream="refs/heads/master"/>
 </manifest>
